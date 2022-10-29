@@ -1,0 +1,17 @@
+{
+    "name": "rhythm_Mention_Robot",
+    "logo": "https://telegra.ph/file/6caec29bf58337953a4b4.png", 
+    "description": "A simple mention all for telegram.",
+    "env": {
+        "TOKEN": {
+            "description": "Enter bot token."
+        },
+        "APP_ID": {
+            "description": "Get this value from my.telegram.org! Please do not steal."
+        },
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org! Please do not steal."
+        }
+    },
+    "buildpacks": [{"url": "heroku/python"}]
+}
