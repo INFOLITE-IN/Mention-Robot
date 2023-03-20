@@ -21,26 +21,26 @@ spam_chats = []
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
   await event.reply(
-    "__**I'm Mention Robot**, I can mention almost all members in group or channel 👻\nClick **/help** for more information__\n\n Follow [@SOCIAL-MECHANIC](https://t.me/rhythm_bots) on Telegram",
+    "__**I'm Mention Robot**, I can mention almost all members in group or channel 👻\nClick **/help** for more information__\n\n Follow [MENTION BOT](https://t.me/mention_members_robot) on Telegram",
     link_preview=False,
     buttons=(
       [
-        Button.url('📣 Channel', 'https://t.me/rhythm_bots'),
-        Button.url('📦 Source', 'https://t.me/rythm_bots')
+        Button.url('📣 Channel', 'https://t.me/mention_members_robot'),
+        Button.url('📦 Source', 'https://t.me/mention_members_robot')
       ]
     )
   )
 
 @client.on(events.NewMessage(pattern="^/help$"))
 async def help(event):
-  helptext = "**Help Menu of MentionAllBot**\n\nCommand: /all\n__You can use this command with text what you want to mention others.__\n`Example: /all Good Morning!`\n__You can you this command as a reply to any message. Bot will tag users to that replied messsage__.\n\nFollow [Rhythm Bots](https://t.me/rhythm_bots) on Telegram"
+  helptext = "**Help Menu of MentionAllBot**\n\nCommand: /all\n__You can use this command with text what you want to mention others.__\n`Example: /all Good Morning!`\n__You can you this command as a reply to any message. Bot will tag users to that replied messsage__.\n\nFollow [MENTION BOT](https://t.me/mention_members_robot) on Telegram"
   await event.reply(
     helptext,
     link_preview=False,
     buttons=(
       [
-        Button.url('📣 Channel', 'https://t.me/rhythm_bots'),
-        Button.url('📦 Source', 'https://t.me/rhythm_bots')
+        Button.url('📣 Channel', 'https://t.me/mention_members_robot'),
+        Button.url('📦 Source', 'https://t.me/mention_members_robot')
       ]
     )
   )
