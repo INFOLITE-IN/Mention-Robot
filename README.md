@@ -11,10 +11,10 @@
 - ᴛᴇʟᴇɢʀᴀᴍ ʟɪʙʀᴀʀʏ: ᴛᴇʟᴇᴛʜᴏɴ.
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kaviyarasan-1997/project1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/KAVIYARASAN-1997/Mention-Robot)
 
 ### 🎯 ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/kaviyarasan-1997/project1)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/kaviyarasan-1997/Mention-Robot)
 
 
 # ᴅᴏ ɴᴏᴛ ғᴏʀɢᴇᴛ ᴛᴏ ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɢɪᴛʜᴜʙ 
